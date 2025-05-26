@@ -1,0 +1,5 @@
+Nmap scan report for LAPTOP-MI24DF9H (192.168.43.23)
+Host is up (0.00016s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+3306/tcp open  mysql
